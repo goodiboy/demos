@@ -4,7 +4,7 @@
 
 | 项目名称 |                           展示链接                           |                             源码                             | 技术栈                  |
 | -------- | :----------------------------------------------------------: | :----------------------------------------------------------: | ----------------------- |
-| 画中画   | [预览](http://www.gdrcz.com/jm_project/huazhonghua/index.html) | [源码]([https://github.com/goodiboy/projectCode/tree/master/H5%E6%B4%BB%E5%8A%A8/%E7%94%BB%E4%B8%AD%E7%94%BB](https://github.com/goodiboy/projectCode/tree/master/H5活动/画中画)) | 原生canvas              |
+| 画中画   | [预览](http://www.gdrcz.com/jm_project/huazhonghua/index.html) | [源码](https://github.com/goodiboy/projectCode/tree/master/H5%E6%B4%BB%E5%8A%A8/%E7%94%BB%E4%B8%AD%E7%94%BB) | 原生canvas              |
 | 上色活动 |   [预览](http://www.gdrcz.com/jm_project/schd/index.html)    | [源码]([https://github.com/goodiboy/projectCode/tree/master/H5%E6%B4%BB%E5%8A%A8/%E4%B8%8A%E8%89%B2](https://github.com/goodiboy/projectCode/tree/master/H5活动/上色)) | createjs                |
 | 节奏大师 |   [预览](http://www.gdrcz.com/jm_project/jzds/index.html)    | [源码]([https://github.com/goodiboy/projectCode/tree/master/H5%E6%B4%BB%E5%8A%A8/%E8%8A%82%E5%A5%8F](https://github.com/goodiboy/projectCode/tree/master/H5活动/节奏)) | createjs                |
 | 图片合成 |   [预览](http://www.gdrcz.com/jm_project/tphc/index.html)    | [源码]([https://github.com/goodiboy/projectCode/tree/master/H5%E6%B4%BB%E5%8A%A8/%E5%9B%BE%E7%89%87%E5%90%88%E6%88%90](https://github.com/goodiboy/projectCode/tree/master/H5活动/图片合成)) | alloy_paper+AlloyFinger |
